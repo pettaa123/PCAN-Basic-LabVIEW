@@ -27,8 +27,10 @@ It creates a **PCAN Basic** palette under *Addons*.
   make clean
   make
   sudo make install
-  cd driver
-  sudo insmod pcan.ko
+  sudo mkdir -p /lib/modules/$(uname -r)/misc
+  sudo cp $(find /lib/modules/ -name "pcan.ko" | head -n 1) /lib/modules/$(uname -r)/misc/
+  sudo find /lib/modules/ -name "pcan.ko" ! -path "/lib/modules/$(uname -r)/*" -exec rm {} \;
+  sudo depmod -a
   sudo modprobe pcan
 ```
   > **Note:** Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.
