@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2025-12-11 11:48:56" Creator="tupp_js" Comments="" ID="35386a5bf7474417f137c76d99156629">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-01-08 18:15:41" Creator="tupp_js" Comments="" ID="c08d6cb4e989ec87efa5432c3a19cb30">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_PCAN_Basic</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/PCAN-Basic-LabVIEW</URL>
-      <Release_Notes/>
+      <Release_Notes>added GetStatus method</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -259,7 +259,7 @@
         <Path>..\source\Write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>43D3F53F17813BFCD5A5E47303D262B4</GUID>
+      <GUID>CB9AA6CE9707E515B5F687029E758793</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

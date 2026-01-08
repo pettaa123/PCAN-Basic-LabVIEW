@@ -33,6 +33,7 @@
 		<Item Name="-8022 Channel is not initialized--error.vi" Type="VI" URL="../-8022 Channel is not initialized--error.vi"/>
 		<Item Name="-8023 Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 Bus error the CAN controller is error passive--error.vi"/>
 	</Item>
+	<Item Name="Get Status.vi" Type="VI" URL="../Get Status.vi"/>
 	<Item Name="Handle Status Code.vi" Type="VI" URL="../Handle Status Code.vi"/>
 	<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 	<Item Name="PCAN Baud.ctl" Type="VI" URL="../PCAN Baud.ctl"/>
@@ -41,6 +42,7 @@
 	<Item Name="PCAN Timestamp.ctl" Type="VI" URL="../PCAN Timestamp.ctl"/>
 	<Item Name="Read.vi" Type="VI" URL="../Read.vi"/>
 	<Item Name="TPCANHandle.ctl" Type="VI" URL="../TPCANHandle.ctl"/>
+	<Item Name="TPCANStatus.ctl" Type="VI" URL="../TPCANStatus.ctl"/>
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 </Library>
