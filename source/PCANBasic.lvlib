@@ -33,6 +33,7 @@
 		<Item Name="-8022 Channel is not initialized--error.vi" Type="VI" URL="../-8022 Channel is not initialized--error.vi"/>
 		<Item Name="-8023 Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 Bus error the CAN controller is error passive--error.vi"/>
 	</Item>
+	<Item Name="Get Bitrate Info.vi" Type="VI" URL="../Get Bitrate Info.vi"/>
 	<Item Name="Get Busspeed Nominal.vi" Type="VI" URL="../Get Busspeed Nominal.vi"/>
 	<Item Name="Get Channel Condition.vi" Type="VI" URL="../Get Channel Condition.vi"/>
 	<Item Name="Get Device ID.vi" Type="VI" URL="../Get Device ID.vi"/>
