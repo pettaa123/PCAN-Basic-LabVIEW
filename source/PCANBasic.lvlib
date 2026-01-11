@@ -33,7 +33,9 @@
 		<Item Name="-8022 Channel is not initialized--error.vi" Type="VI" URL="../-8022 Channel is not initialized--error.vi"/>
 		<Item Name="-8023 Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 Bus error the CAN controller is error passive--error.vi"/>
 	</Item>
+	<Item Name="Filter Messages.vi" Type="VI" URL="../Filter Messages.vi"/>
 	<Item Name="Get Bitrate Info.vi" Type="VI" URL="../Get Bitrate Info.vi"/>
+	<Item Name="Get Busoff Autoreset.vi" Type="VI" URL="../Get Busoff Autoreset.vi"/>
 	<Item Name="Get Busspeed Nominal.vi" Type="VI" URL="../Get Busspeed Nominal.vi"/>
 	<Item Name="Get Channel Condition.vi" Type="VI" URL="../Get Channel Condition.vi"/>
 	<Item Name="Get Device ID.vi" Type="VI" URL="../Get Device ID.vi"/>
@@ -47,6 +49,8 @@
 	<Item Name="PCAN Message.ctl" Type="VI" URL="../PCAN Message.ctl"/>
 	<Item Name="PCAN Timestamp.ctl" Type="VI" URL="../PCAN Timestamp.ctl"/>
 	<Item Name="Read.vi" Type="VI" URL="../Read.vi"/>
+	<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
+	<Item Name="Set Busoff Autoreset.vi" Type="VI" URL="../Set Busoff Autoreset.vi"/>
 	<Item Name="Set Device ID.vi" Type="VI" URL="../Set Device ID.vi"/>
 	<Item Name="Set Value.vi" Type="VI" URL="../Set Value.vi"/>
 	<Item Name="TPCANHandle.ctl" Type="VI" URL="../TPCANHandle.ctl"/>
