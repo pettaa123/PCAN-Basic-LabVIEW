@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-01-11 23:59:58" Creator="tupp_js" Comments="" ID="0f15cd12baa9de311121d8d6ccbcbc66">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-01-12 12:11:19" Creator="tupp_js" Comments="" ID="20a78940c6132b5e088ebd90224afd4c">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_PCAN_Basic</Package_File_Name>
-    <Library_Version>1.0.0.9</Library_Version>
+    <Library_Version>1.0.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/PCAN-Basic-LabVIEW</URL>
-      <Release_Notes>added filter messages, reset method and set busoff autoreset</Release_Notes>
+      <Release_Notes>update vipm build</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -343,7 +343,7 @@
         <Path>..\source\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>65B26A19D9A1B4A79E497BF81CE0AA9E</GUID>
+      <GUID>FAA5FF3C1F88D01849AF9CB452A5BA99</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
