@@ -1,7 +1,7 @@
 # PCAN Basic LabVIEW
 
 A lightweight wrapper for [PCAN Basic API](https://www.peak-system.com/PCAN-Basic.239.0.html). 
-This wrapper has been tested against version Peak Linux Driver **8.20.0** and PCAN Basic **V4.8.2.897**.
+This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with Peak Driver **8.20.0** (Linux), **4.6.4** (Windows x86/x64).
 
 ---
 
@@ -35,10 +35,10 @@ It creates a **PCAN Basic** palette under *Addons*.
 ```
   > **Note:** Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.
 ### **Windows**
-  - Install [PCAN driver for Windows](https://www.peak-system.com/produktcd/Drivers/PeakOemDrv.exe)
-  - Download [PCAN Basic API for Windows](https://www.peak-system.com/fileadmin/media/files/PCAN-Basic.zip)
-  - From pcan-basic.zip copy `Win32/PCANBasic.dll` to `/Windows/SysWOW64`
-  - From pcan-basic.zip copy `X64/PCANBasic.dll` to `/Windows/System32`
+  - Install [PCAN Driver 4.6.4 for Windows](https://www.peak-system.com/quick/DrvSetup_4x) 
+  - Download [PCAN Basic API 4 for Windows](https://www.peak-system.com/fileadmin/media/files/PCAN-Basic_4x.zip)
+  - From PCAN-Basic_4x.zip copy `x86/PCANBasic.dll` to `/Windows/SysWOW64`
+  - From PCAN-Basic_4x.zip copy `x64/PCANBasic.dll` to `/Windows/System32`
   
 ## Sample Usage
 ### Read
