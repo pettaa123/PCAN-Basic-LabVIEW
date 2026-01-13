@@ -82,4 +82,5 @@
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 	<Item Name="Read Event.lvclass" Type="LVClass" URL="../Read Event/Read Event.lvclass"/>
+	<Item Name="Get Receive Event.vi" Type="VI" URL="../Get Receive Event.vi"/>
 </Library>
