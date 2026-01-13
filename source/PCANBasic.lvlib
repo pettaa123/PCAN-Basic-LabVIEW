@@ -78,4 +78,5 @@
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 	<Item Name="Set Interframe Delay.vi" Type="VI" URL="../Set Interframe Delay.vi"/>
+	<Item Name="Set Receive Event.vi" Type="VI" URL="../Set Receive Event.vi"/>
 </Library>
