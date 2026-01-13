@@ -16,6 +16,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Test PCANBasic.lvclass" Type="LVClass" URL="../Tests PCANBasic/Test PCANBasic.lvclass"/>
 		<Item Name="Global PCAN Channel.vi" Type="VI" URL="../Tests PCANBasic/Global PCAN Channel.vi"/>
+		<Item Name="Global PCAN Baudrate.vi" Type="VI" URL="../Tests PCANBasic/Global PCAN Baudrate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
