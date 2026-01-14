@@ -59,6 +59,7 @@
 		<Item Name="Get Interframe Delay.vi" Type="VI" URL="../Get Interframe Delay.vi"/>
 		<Item Name="Get Listen Only.vi" Type="VI" URL="../Get Listen Only.vi"/>
 		<Item Name="Get PCAN API Version.vi" Type="VI" URL="../Get PCAN API Version.vi"/>
+		<Item Name="Get Receive Event.vi" Type="VI" URL="../Get Receive Event.vi"/>
 	</Item>
 	<Item Name="Set Parameters" Type="Folder">
 		<Item Name="Set Bitrate Adapting.vi" Type="VI" URL="../Set Bitrate Adapting.vi"/>
@@ -82,5 +83,4 @@
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 	<Item Name="Read Event.lvclass" Type="LVClass" URL="../Read Event/Read Event.lvclass"/>
-	<Item Name="Get Receive Event.vi" Type="VI" URL="../Get Receive Event.vi"/>
 </Library>
