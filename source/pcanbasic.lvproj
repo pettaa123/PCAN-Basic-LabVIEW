@@ -16,6 +16,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PCANBasic.lvlib" Type="Library" URL="../PCANBasic.lvlib"/>
 		<Item Name="Tests PCANBasic.lvproj" Type="Document" URL="../../tests/Tests PCANBasic.lvproj"/>
+		<Item Name="Message Waiter.lvclass" Type="LVClass" URL="../Message Waiter/Message Waiter.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

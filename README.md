@@ -3,6 +3,8 @@
 A lightweight wrapper for [PCAN Basic API](https://www.peak-system.com/PCAN-Basic.239.0.html). 
 This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with Peak Driver **8.20.0** (Linux), **4.6.4** (Windows x86/x64).
 
+This project includes code from the [LinuxRT-IPC](https://github.com/NISystemsEngineering/LinuxRT-IPC) project, licensed under Apache License 2.0.
+
 ---
 
 ## VIPM

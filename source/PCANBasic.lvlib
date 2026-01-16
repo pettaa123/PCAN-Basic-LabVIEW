@@ -35,7 +35,6 @@
 		<Item Name="-8023 Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 Bus error the CAN controller is error passive--error.vi"/>
 		<Item Name="-8024 Receive queue was read too late--error.vi" Type="VI" URL="../-8024 Receive queue was read too late--error.vi"/>
 		<Item Name="-8025 Win32 Event Error--error.vi" Type="VI" URL="../-8025 Win32 Event Error--error.vi"/>
-		<Item Name="-8026 Wait Abondoned--error.vi" Type="VI" URL="../-8026 Wait Abondoned--error.vi"/>
 	</Item>
 	<Item Name="controls" Type="Folder">
 		<Item Name="PCAN Baud.ctl" Type="VI" URL="../PCAN Baud.ctl"/>
@@ -83,4 +82,10 @@
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 	<Item Name="Read Event.lvclass" Type="LVClass" URL="../Read Event/Read Event.lvclass"/>
+	<Item Name="epoll.lvclass" Type="LVClass" URL="../epoll/epoll.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Win32 Event.lvclass" Type="LVClass" URL="../Win32 Event/Win32 Event.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
