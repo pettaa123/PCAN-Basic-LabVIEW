@@ -88,4 +88,7 @@
 	<Item Name="Win32 Event.lvclass" Type="LVClass" URL="../Win32 Event/Win32 Event.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Message Waiter.lvclass" Type="LVClass" URL="../Message Waiter/Message Waiter.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>

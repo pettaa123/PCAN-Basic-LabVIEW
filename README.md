@@ -47,4 +47,7 @@ It creates a **PCAN Basic** palette under *Addons*.
 ![read](sampleread.png)
 ### Write
 ![read](samplewrite.png)
+### Read Event Driven
+![read](samplereadeventdriven.png)
+
 
