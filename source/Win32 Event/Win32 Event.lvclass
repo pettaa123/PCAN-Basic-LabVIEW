@@ -24,7 +24,7 @@
 	</Item>
 	<Item Name="errors" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="-8026 Wait Abondoned--error.vi" Type="VI" URL="../../-8026 Wait Abondoned--error.vi">
+		<Item Name="-8026 Wait Abondoned--error.vi" Type="VI" URL="../-8026 Wait Abondoned--error.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$4!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!!Q!+28*S&lt;X)A1W^E:1!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!!^!#!!);'2M28:F&lt;H1!!&amp;1!]!!-!!-!"!!&amp;!!1!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
