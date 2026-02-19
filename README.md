@@ -1,7 +1,7 @@
 # PCAN Basic LabVIEW
 
 A lightweight wrapper for [PCAN Basic API](https://www.peak-system.com/PCAN-Basic.239.0.html). 
-This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with Peak Driver **8.20.0** (Linux), **4.6.4** (Windows x86/x64).
+This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with Peak Driver **8.20.0** (Linux), **4.6.4** (Windows x86/x64) and is meant to be used with PEAK-Systems USB CAN dongles.
 
 This project includes code for event driven read on linux rt from the [LinuxRT-IPC](https://github.com/NISystemsEngineering/LinuxRT-IPC) project, licensed under Apache License 2.0.
 
@@ -16,8 +16,9 @@ It creates a **PCAN Basic** palette under Instrument I/O.
 
 ## Prerequisites
 
-- **LabVIEW 2019 64 bit**
-- **(Optional) LUnit Test Framework (LabVIEW 2020)** – [GitHub Repository](https://github.com/Astemes/astemes-lunit)
+- **LabVIEW 2020**
+- **(Optional) LUnit Test Framework** – [GitHub Repository](https://github.com/Astemes/astemes-lunit)
+
 ### **NI-RT Linux**
   - Download [PCAN Basic for Linux](https://www.peak-system.com/quick/BasicLinux)
   - Copy peak-linux-driver-8.20.0.tar.gz to /home/lvuser/ on real-time target using a [FTP client](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YMLnCAO&l=en-GB) or [Webdav](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YGytCAG&l=en-US)
@@ -46,10 +47,8 @@ It creates a **PCAN Basic** palette under Instrument I/O.
 ![palette.png](palette.png)
   
 ## Sample Usage
-### Read
-![read](sampleread.png)
-### Write
-![read](samplewrite.png)
+### Read Write
+![read](samplereadwrite.png)
 ### Read Event Driven
 ![read](samplereadeventdriven.png)
 
