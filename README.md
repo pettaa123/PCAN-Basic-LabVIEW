@@ -1,4 +1,5 @@
 # PCAN Basic LabVIEW
+[![Image](https://www.vipm.io/package/peter_lib_pcan_basic/badge.svg?metric=installs)](https://www.vipm.io/package/peter_lib_pcan_basic/) [![Image](https://www.vipm.io/package/peter_lib_pcan_basic/badge.svg?metric=stars)](https://www.vipm.io/package/peter_lib_pcan_basic/)
 
 A lightweight wrapper for [PCAN Basic API](https://www.peak-system.com/PCAN-Basic.239.0.html). 
 This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with Peak Driver **8.20.0** (Linux), **4.6.4** (Windows x86/x64) and is meant to be used with PEAK-Systems USB CAN dongles.
