@@ -3,10 +3,6 @@
 	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
-	<Property Name="varPersistentID:{1F5E3ADA-B0A5-4A72-B779-C7B5B2000799}" Type="Ref">/cRIO-9045/Chassis/Real-Time Scan Resources/Mod7/AI1</Property>
-	<Property Name="varPersistentID:{5B733137-A8EC-4F83-8BA9-FE0A4A9ADD60}" Type="Ref">/cRIO-9045/Chassis/Real-Time Scan Resources/Mod7/AI3</Property>
-	<Property Name="varPersistentID:{E4702CEE-8997-4C98-B0FA-70E50F7E3CB3}" Type="Ref">/cRIO-9045/Chassis/Real-Time Scan Resources/Mod7/AI0</Property>
-	<Property Name="varPersistentID:{FA03762D-36A8-4B65-81B2-535C3CD7AD9F}" Type="Ref">/cRIO-9045/Chassis/Real-Time Scan Resources/Mod7/AI2</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
