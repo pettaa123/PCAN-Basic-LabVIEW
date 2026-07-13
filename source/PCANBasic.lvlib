@@ -11,30 +11,30 @@
 	<Item Name="errors" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="-8000 Unspecified Error--error.vi" Type="VI" URL="../-8000 Unspecified Error--error.vi"/>
-		<Item Name="-8001 Transmit buffer in CAN controller is full--error.vi" Type="VI" URL="../-8001 Transmit buffer in CAN controller is full--error.vi"/>
-		<Item Name="-8002 CAN Controller was read too late--error.vi" Type="VI" URL="../-8002 CAN Controller was read too late--error.vi"/>
-		<Item Name="-8003 Bus error an error counter reached the &apos;light&apos; limit--error.vi" Type="VI" URL="../-8003 Bus error an error counter reached the &apos;light&apos; limit--error.vi"/>
-		<Item Name="-8004 Bus error an error counter reached the heavywarning limit--error.vi" Type="VI" URL="../-8004 Bus error an error counter reached the heavywarning limit--error.vi"/>
-		<Item Name="-8005 Bus error the CAN controller is in bus-off state--error.vi" Type="VI" URL="../-8005 Bus error the CAN controller is in bus-off state--error.vi"/>
-		<Item Name="-8006 Receive queue is empty--error.vi" Type="VI" URL="../-8006 Receive queue is empty--error.vi"/>
-		<Item Name="-8007 Transmit queue is full--error.vi" Type="VI" URL="../-8007 Transmit queue is full--error.vi"/>
-		<Item Name="-8008 Test of the CAN controller hardware registers failed (no hardware found)--error.vi" Type="VI" URL="../-8008 Test of the CAN controller hardware registers failed (no hardware found)--error.vi"/>
-		<Item Name="-8009 Driver not loaded--error.vi" Type="VI" URL="../-8009 Driver not loaded--error.vi"/>
-		<Item Name="-8010 Hardware already in use by a Net--error.vi" Type="VI" URL="../-8010 Hardware already in use by a Net--error.vi"/>
-		<Item Name="-8011 A Client is already connected to the Net--error.vi" Type="VI" URL="../-8011 A Client is already connected to the Net--error.vi"/>
-		<Item Name="-8012 Net handle is invalid--error.vi" Type="VI" URL="../-8012 Net handle is invalid--error.vi"/>
-		<Item Name="-8013 Client handle is invalid--error.vi" Type="VI" URL="../-8013 Client handle is invalid--error.vi"/>
-		<Item Name="-8014 Resource (FIFO, Client, timeout) cannot be created--error.vi" Type="VI" URL="../-8014 Resource (FIFO, Client, timeout) cannot be created--error.vi"/>
-		<Item Name="-8015 Invalid parameter--error.vi" Type="VI" URL="../-8015 Invalid parameter--error.vi"/>
-		<Item Name="-8016 Invalid parameter value--error.vi" Type="VI" URL="../-8016 Invalid parameter value--error.vi"/>
-		<Item Name="-8017 Unknown error--error.vi" Type="VI" URL="../-8017 Unknown error--error.vi"/>
-		<Item Name="-8018 Invalid data, function, or action--error.vi" Type="VI" URL="../-8018 Invalid data, function, or action--error.vi"/>
-		<Item Name="-8019 Driver object state is wrong for the attempted operation--error.vi" Type="VI" URL="../-8019 Driver object state is wrong for the attempted operation--error.vi"/>
-		<Item Name="-8020 An operation was successfully carried out, however, irregularities were registered--error.vi" Type="VI" URL="../-8020 An operation was successfully carried out, however, irregularities were registered--error.vi"/>
-		<Item Name="-8021 PCAN Invalid operation [Value was changed from 0x80000 to 0x8000000]--error.vi" Type="VI" URL="../-8021 PCAN Invalid operation [Value was changed from 0x80000 to 0x8000000]--error.vi"/>
-		<Item Name="-8022 Channel is not initialized--error.vi" Type="VI" URL="../-8022 Channel is not initialized--error.vi"/>
-		<Item Name="-8023 Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 Bus error the CAN controller is error passive--error.vi"/>
-		<Item Name="-8024 Receive queue was read too late--error.vi" Type="VI" URL="../-8024 Receive queue was read too late--error.vi"/>
+		<Item Name="-8001 PCAN_ERROR_XMTFULL Transmit buffer in CAN controller is full--error.vi" Type="VI" URL="../-8001 PCAN_ERROR_XMTFULL Transmit buffer in CAN controller is full--error.vi"/>
+		<Item Name="-8002 PCAN_ERROR_OVERRUN CAN Controller was read too late--error.vi" Type="VI" URL="../-8002 PCAN_ERROR_OVERRUN CAN Controller was read too late--error.vi"/>
+		<Item Name="-8003 PCAN_ERROR_BUSLIGHT Bus error an error counter reached the &apos;light&apos; limit--error.vi" Type="VI" URL="../-8003 PCAN_ERROR_BUSLIGHT Bus error an error counter reached the &apos;light&apos; limit--error.vi"/>
+		<Item Name="-8004 PCAN_ERROR_BUSHEAVY Bus error an error counter reached the heavywarning limit--error.vi" Type="VI" URL="../-8004 PCAN_ERROR_BUSHEAVY Bus error an error counter reached the heavywarning limit--error.vi"/>
+		<Item Name="-8005 PCAN_ERROR_BUSOFF Bus error the CAN controller is in bus-off state--error.vi" Type="VI" URL="../-8005 PCAN_ERROR_BUSOFF Bus error the CAN controller is in bus-off state--error.vi"/>
+		<Item Name="-8006 PCAN_ERROR_QRCVEMPTY Receive queue is empty--error.vi" Type="VI" URL="../-8006 PCAN_ERROR_QRCVEMPTY Receive queue is empty--error.vi"/>
+		<Item Name="-8007 PCAN_ERROR_QXMTFULL Transmit queue is full--error.vi" Type="VI" URL="../-8007 PCAN_ERROR_QXMTFULL Transmit queue is full--error.vi"/>
+		<Item Name="-8008 PCAN_ERROR_REGTEST Test of the CAN controller hardware registers failed (no hardware found)--error.vi" Type="VI" URL="../-8008 PCAN_ERROR_REGTEST Test of the CAN controller hardware registers failed (no hardware found)--error.vi"/>
+		<Item Name="-8009 PCAN_ERROR_NODRIVER Driver not loaded--error.vi" Type="VI" URL="../-8009 PCAN_ERROR_NODRIVER Driver not loaded--error.vi"/>
+		<Item Name="-8010 PCAN_ERROR_HWINUSE Hardware already in use by a Net--error.vi" Type="VI" URL="../-8010 PCAN_ERROR_HWINUSE Hardware already in use by a Net--error.vi"/>
+		<Item Name="-8011 PCAN_ERROR_NETINUSE A Client is already connected to the Net--error.vi" Type="VI" URL="../-8011 PCAN_ERROR_NETINUSE A Client is already connected to the Net--error.vi"/>
+		<Item Name="-8012 PCAN_ERROR_ILLHW Net handle is invalid--error.vi" Type="VI" URL="../-8012 PCAN_ERROR_ILLHW Net handle is invalid--error.vi"/>
+		<Item Name="-8013 PCAN_ERROR_ILLCLIENT Client handle is invalid--error.vi" Type="VI" URL="../-8013 PCAN_ERROR_ILLCLIENT Client handle is invalid--error.vi"/>
+		<Item Name="-8014 PCAN_ERROR_RESOURCE Resource (FIFO, Client, timeout) cannot be created--error.vi" Type="VI" URL="../-8014 PCAN_ERROR_RESOURCE Resource (FIFO, Client, timeout) cannot be created--error.vi"/>
+		<Item Name="-8015 PCAN_ERROR_ILLPARAMTYPE Invalid parameter--error.vi" Type="VI" URL="../-8015 PCAN_ERROR_ILLPARAMTYPE Invalid parameter--error.vi"/>
+		<Item Name="-8016 PCAN_ERROR_ILLPARAMVAL Invalid parameter value--error.vi" Type="VI" URL="../-8016 PCAN_ERROR_ILLPARAMVAL Invalid parameter value--error.vi"/>
+		<Item Name="-8017 PCAN_ERROR_UNKNOWN Unknown error--error.vi" Type="VI" URL="../-8017 PCAN_ERROR_UNKNOWN Unknown error--error.vi"/>
+		<Item Name="-8018 PCAN_ERROR_ILLDATA Invalid data, function, or action--error.vi" Type="VI" URL="../-8018 PCAN_ERROR_ILLDATA Invalid data, function, or action--error.vi"/>
+		<Item Name="-8019 PCAN_ERROR_ILLMODE Driver object state is wrong for the attempted operation--error.vi" Type="VI" URL="../-8019 PCAN_ERROR_ILLMODE Driver object state is wrong for the attempted operation--error.vi"/>
+		<Item Name="-8020 PCAN_ERROR_CAUTION An operation was successfully carried out, however, irregularities were registered--error.vi" Type="VI" URL="../-8020 PCAN_ERROR_CAUTION An operation was successfully carried out, however, irregularities were registered--error.vi"/>
+		<Item Name="-8021 PCAN_ERROR_ILLOPERATION PCAN Invalid operation [Value was changed from 0x80000 to 0x8000000]--error.vi" Type="VI" URL="../-8021 PCAN_ERROR_ILLOPERATION PCAN Invalid operation [Value was changed from 0x80000 to 0x8000000]--error.vi"/>
+		<Item Name="-8022 PCAN_ERROR_INITIALIZE Channel is not initialized--error.vi" Type="VI" URL="../-8022 PCAN_ERROR_INITIALIZE Channel is not initialized--error.vi"/>
+		<Item Name="-8023 PCAN_ERROR_ANYBUSERR Bus error the CAN controller is error passive--error.vi" Type="VI" URL="../-8023 PCAN_ERROR_ANYBUSERR Bus error the CAN controller is error passive--error.vi"/>
+		<Item Name="-8024 PCAN_ERROR_QOVERRUN Receive queue was read too late--error.vi" Type="VI" URL="../-8024 PCAN_ERROR_QOVERRUN Receive queue was read too late--error.vi"/>
 		<Item Name="-8025 Win32 Event Error--error.vi" Type="VI" URL="../-8025 Win32 Event Error--error.vi"/>
 	</Item>
 	<Item Name="controls" Type="Folder">
