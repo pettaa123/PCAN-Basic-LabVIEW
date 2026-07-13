@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-05-18 11:54:38" Creator="tupp_js" Comments="" ID="2dafe81ddbe7b41cf3c9c615dadece0d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-07-13 12:51:35" Creator="tupp_js" Comments="" ID="f7a315d3a30b334b64bfcfa44a370132">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_PCAN_Basic</Package_File_Name>
-    <Library_Version>1.0.0.16</Library_Version>
+    <Library_Version>1.0.0.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -55,9 +55,8 @@ From &lt;i&gt;PCAN-Basic_4x.zip&lt;/i&gt; copy &lt;i&gt;x64/PCANBasic.dll&lt;/i&
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/PCAN-Basic-LabVIEW</URL>
-      <Release_Notes>-Fixed issue #1 Uninitialize clears upstream uninitialized error
--Set TPCANPARAMETER.ctl to access scope private
--Regenerated VI icons</Release_Notes>
+      <Release_Notes>Added GET_ATTACHED_CHANNELS and GET_ATTACHED_CHANNEL_COUNT Parameters to Get Value
+#issue 3-add-parameters-pcan_attached_channels_count-and-pcan_attached_channels</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -413,7 +412,7 @@ From &lt;i&gt;PCAN-Basic_4x.zip&lt;/i&gt; copy &lt;i&gt;x64/PCANBasic.dll&lt;/i&
         <Path>..\source\Read Event\Unregister.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AC3505489ECE9992F459AD4333B71736</GUID>
+      <GUID>03A086A9944FCFADFA510ACBB7F7A7E4</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
