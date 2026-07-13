@@ -1,5 +1,19 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="PCANBasic.lvlib:Get Attached Channels.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="791"/>
+          <SignalUID value="1307"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
