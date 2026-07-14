@@ -56,6 +56,7 @@
 		<Item Name="Get Attached Channels.vi" Type="VI" URL="../Get Attached Channels.vi"/>
 		<Item Name="Get Attached Channels Count.vi" Type="VI" URL="../Get Attached Channels Count.vi"/>
 		<Item Name="Get Bitrate Info.vi" Type="VI" URL="../Get Bitrate Info.vi"/>
+		<Item Name="Get Bitrate Info FD.vi" Type="VI" URL="../Get Bitrate Info FD.vi"/>
 		<Item Name="Get Busoff Autoreset.vi" Type="VI" URL="../Get Busoff Autoreset.vi"/>
 		<Item Name="Get Busspeed Nominal.vi" Type="VI" URL="../Get Busspeed Nominal.vi"/>
 		<Item Name="Get Channel Condition.vi" Type="VI" URL="../Get Channel Condition.vi"/>
@@ -106,5 +107,4 @@
 	<Item Name="Init FD.vi" Type="VI" URL="../Init FD.vi"/>
 	<Item Name="Read FD.vi" Type="VI" URL="../Read FD.vi"/>
 	<Item Name="Write FD.vi" Type="VI" URL="../Write FD.vi"/>
-	<Item Name="Get Bitrate Info FD.vi" Type="VI" URL="../Get Bitrate Info FD.vi"/>
 </Library>
