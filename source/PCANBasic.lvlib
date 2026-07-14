@@ -49,6 +49,8 @@
 		<Item Name="TPCANStatus.ctl" Type="VI" URL="../TPCANStatus.ctl"/>
 		<Item Name="TPCANChannelInformation.ctl" Type="VI" URL="../TPCANChannelInformation.ctl"/>
 		<Item Name="PCAN Type.ctl" Type="VI" URL="../PCAN Type.ctl"/>
+		<Item Name="Data Length Code FD.ctl" Type="VI" URL="../Data Length Code FD.ctl"/>
+		<Item Name="PCAN Message FD.ctl" Type="VI" URL="../PCAN Message FD.ctl"/>
 	</Item>
 	<Item Name="Get Parameters" Type="Folder">
 		<Item Name="Get Attached Channels.vi" Type="VI" URL="../Get Attached Channels.vi"/>
@@ -101,4 +103,8 @@
 	<Item Name="Message Waiter.lvclass" Type="LVClass" URL="../Message Waiter/Message Waiter.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Init FD.vi" Type="VI" URL="../Init FD.vi"/>
+	<Item Name="Read FD.vi" Type="VI" URL="../Read FD.vi"/>
+	<Item Name="Write FD.vi" Type="VI" URL="../Write FD.vi"/>
+	<Item Name="Get Bitrate Info FD.vi" Type="VI" URL="../Get Bitrate Info FD.vi"/>
 </Library>
