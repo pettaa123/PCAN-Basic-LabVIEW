@@ -15,5 +15,87 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="PCANBasic.lvlib:Get PCAN API Version.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="186"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCANBasic.lvlib:Get PCAN API Version.vi:3350001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="186"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCANBasic.lvlib:Read.vi:180001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1402"/>
+          <SignalUID value="6087"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test PCANBasic.lvclass:test Echo Frame.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="703"/>
+          <SignalUID value="471"/>
+          <SignalUID value="3333"/>
+          <SignalUID value="4131"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test PCANBasic.lvclass:test Get Error Text.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="543"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test PCANBasic.lvclass:test Get PCAN API Version.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="971"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
