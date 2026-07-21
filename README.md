@@ -6,6 +6,10 @@ This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with
 
 This project includes code for event driven read on linux rt from the [LinuxRT-IPC](https://github.com/NISystemsEngineering/LinuxRT-IPC) project, licensed under Apache License 2.0.
 
+`source/peak/PCANBasic64.dll` and `source/peak/PCANBasic32.dll` V4.10.1.968 — Copyright © Copyright (c) 2025 PEAK-System Technik GmbH Darmstadt, Germany.
+Included as-is for convenience, unmodified, for use with this project.
+Distributed according to the original PEAK license terms.
+
 ---
 
 ## VIPM
@@ -19,6 +23,9 @@ It creates a **PCAN Basic** palette under Instrument I/O.
 
 - **LabVIEW 2020**
 - **(Optional) LUnit Test Framework** – [GitHub Repository](https://github.com/Astemes/astemes-lunit)
+
+### **Windows**
+  - Install [PCAN Driver 4.6.4 for Windows](https://www.peak-system.com/quick/DrvSetup_4x) 
 
 ### **NI-RT Linux**
   - Download [PCAN Basic for Linux](https://www.peak-system.com/quick/BasicLinux)
@@ -38,11 +45,7 @@ It creates a **PCAN Basic** palette under Instrument I/O.
   sudo modprobe pcan
 ```
   > **Note:** Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.
-### **Windows**
-  - Install [PCAN Driver 4.6.4 for Windows](https://www.peak-system.com/quick/DrvSetup_4x) 
-  - Download [PCAN Basic API 4 for Windows](https://www.peak-system.com/fileadmin/media/files/PCAN-Basic_4x.zip)
-  - From PCAN-Basic_4x.zip copy `x86/PCANBasic.dll` to `/Windows/SysWOW64`
-  - From PCAN-Basic_4x.zip copy `x64/PCANBasic.dll` to `/Windows/System32`
+
 
 ## Palette
 ![palette.png](palette.png)

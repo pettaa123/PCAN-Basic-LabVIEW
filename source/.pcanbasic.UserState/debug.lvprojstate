@@ -15,5 +15,32 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="PCANBasic.lvlib:Get Device GUID.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="684"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCANBasic.lvlib:Get Value (String).vi:10001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="280"/>
+          <SignalUID value="375"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>

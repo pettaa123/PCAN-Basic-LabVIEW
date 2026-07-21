@@ -1,8 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="18008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;7R4BN"%-&lt;RDSB3;*UHC0Q+]Q3*8%7U\B$F^+2R3U(B)B81T#OYJ@1L4*8?L_$;X@(@^:QRCB1X15+)/^&lt;W@&lt;?\]`0?_:$[&gt;CZ^VH"CWXXZZ\&lt;&lt;U9@XQUP^^7-_=&lt;[^D7FP2\X']&gt;7\^RT']=-Y@DQVP"D=/^8ZZ^*`V4`B0`8^^&lt;&amp;^&lt;/^\OTHV'XD^X]':WI/)FL3A/=X5SAZ*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O2^*R?ZS%5/+3G?&amp;%IG43:)/E.2]J*Y%E`C34Q=+P%EHM34?")08:2Y%E`C34S*BW&amp;+0)EH]33?R-.58:*^*]?4?*B?A3@Q"*\!%XAIK=!4!)*CQ=4"*$!5H!Q_"*\!%XDYK-!4?!*0Y!E]H&amp;&lt;A#4S"*`!%(I&lt;U69GO;4MZ(K;2YX%]DM@R/"[GFO.R0)\(]4A?SMHR/"Y(Y22U*I=A:Z$4Q4FQ0)[(.TE?R_.Y()`DY63`1NZ8JGH;4I\(]"A?QW.Y$!^4S0!9(M.D?!Q0U]LQ'"\$9XA-$[6E?!S0Y4%A2F(+SZD-''BU-A,$QV_`7[R@J?A3[\N5.[`KJF4&gt;&lt;+K&lt;3(6TK#[[[G+K,J*K]67,KFIMV3+IPJQ+L=+ICKA'NY\;]LKBL7ELWJ+WI-VJ-^K5.GF$`X0(\8;LT7;D^8KNV7KFZ8+JR7+B_8SOW7SG[83KS72S?!R]9T]]%0&lt;0J8:Q`@P_^O@&amp;HYN@8R]@@FT&gt;88[`O\`&gt;L`#L`X^_!]^'@&gt;*R$&gt;&lt;I#1VA5)M!!!!!</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;7R4BN"%-&lt;RDSB3;*UHC0Q+]Q3*8%7U\B$F^+2R3U(B)B81T#OYJ@1L4*8?L_$;X@(@^:QRCB1X15+)/^&lt;W@&lt;?\]`0?_:$[&gt;CZ^VH"CWXXZZ\&lt;&lt;U9@XQUP^^7-_=&lt;[^D7FP2\X']&gt;7\^RT']=-Y@DQVP"D=/^8ZZ^*`V4`B0`8^^&lt;&amp;^&lt;/^\OTHV'XD^X]':WI/)FL3A/=X5SAZ*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O2^*R?ZS%5/+3G?&amp;%IG43:)/E.2]J*Y%E`C34Q=+P%EHM34?")08:2Y%E`C34S*BW&amp;+0)EH]33?R-.58:*^*]?4?*B?A3@Q"*\!%XAIK=!4!)*CQ=4"*$!5H!Q_"*\!%XDYK-!4?!*0Y!E]H&amp;&lt;A#4S"*`!%(I&lt;U69GO;4MZ(K;2YX%]DM@R/"[GFO.R0)\(]4A?SMHR/"Y(Y22U*I=A:Z$4Q4FQ0)[(.TE?R_.Y()`DY63`1NZ8JGH;4I\(]"A?QW.Y$!^4S0!9(M.D?!Q0U]LQ'"\$9XA-$[6E?!S0Y4%A2F(+SZD-''BU-A,$QV_`7[R@J?A3[\N5.[`KJF4&gt;&lt;+K&lt;3(6TK#[[[G+K,J*K]67,KFIMV3+IPJQ+L=+ICKA'NY\;]LKBL7ELWJ+WI-VJ-^K5.GF$`X0(\8;LT7;D^8KNV7KFZ8+JR7+B_8SOW7SG[83KS72S?!R]9T]]%0&lt;0J8:Q`@P_^O@&amp;HYN@8R]@@FT&gt;88[`O\`&gt;L`#L`X^_!]^'@&gt;*R$&gt;&lt;I#1VA5)M!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
-	<Property Name="NI.LV.All.SaveVersion" Type="Str">18.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Property Name="NI_IconEditor" Type="Str">50 54 49 50 56 48 48 50 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 48 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 3 189 0 0 0 0 0 0 0 0 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 179 179 179 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 255 213 207 179 179 179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 7 86 73 32 73 99 111 110 100 1 0 0 0 0 0 7 80 67 65 78 32 66 52 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
@@ -39,9 +38,12 @@
 	</Item>
 	<Item Name="controls" Type="Folder">
 		<Item Name="PCAN Baud.ctl" Type="VI" URL="../PCAN Baud.ctl"/>
-		<Item Name="PCAN Message types.ctl" Type="VI" URL="../PCAN Message types.ctl"/>
-		<Item Name="PCAN Message.ctl" Type="VI" URL="../PCAN Message.ctl"/>
-		<Item Name="PCAN Timestamp.ctl" Type="VI" URL="../PCAN Timestamp.ctl"/>
+		<Item Name="PCAN Message Type.ctl" Type="VI" URL="../PCAN Message Type.ctl">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="PCAN Timestamp.ctl" Type="VI" URL="../PCAN Timestamp.ctl">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
 		<Item Name="TPCANHandle.ctl" Type="VI" URL="../TPCANHandle.ctl"/>
 		<Item Name="TPCANParameter.ctl" Type="VI" URL="../TPCANParameter.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -49,10 +51,12 @@
 		<Item Name="TPCANStatus.ctl" Type="VI" URL="../TPCANStatus.ctl"/>
 		<Item Name="TPCANChannelInformation.ctl" Type="VI" URL="../TPCANChannelInformation.ctl"/>
 		<Item Name="PCAN Type.ctl" Type="VI" URL="../PCAN Type.ctl"/>
-		<Item Name="Data Length Code FD.ctl" Type="VI" URL="../Data Length Code FD.ctl"/>
-		<Item Name="PCAN Message FD.ctl" Type="VI" URL="../PCAN Message FD.ctl"/>
+		<Item Name="Data Length Code FD.ctl" Type="VI" URL="../Data Length Code FD.ctl">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
 	</Item>
 	<Item Name="Get Parameters" Type="Folder">
+		<Item Name="Get Allow Echo Frames.vi" Type="VI" URL="../Get Allow Echo Frames.vi"/>
 		<Item Name="Get Attached Channels.vi" Type="VI" URL="../Get Attached Channels.vi"/>
 		<Item Name="Get Attached Channels Count.vi" Type="VI" URL="../Get Attached Channels Count.vi"/>
 		<Item Name="Get Bitrate Info.vi" Type="VI" URL="../Get Bitrate Info.vi"/>
@@ -71,6 +75,7 @@
 		<Item Name="Get Receive Event.vi" Type="VI" URL="../Get Receive Event.vi"/>
 	</Item>
 	<Item Name="Set Parameters" Type="Folder">
+		<Item Name="Set Allow Echo Frames.vi" Type="VI" URL="../Set Allow Echo Frames.vi"/>
 		<Item Name="Set Bitrate Adapting.vi" Type="VI" URL="../Set Bitrate Adapting.vi"/>
 		<Item Name="Set Busoff Autoreset.vi" Type="VI" URL="../Set Busoff Autoreset.vi"/>
 		<Item Name="Set Device ID.vi" Type="VI" URL="../Set Device ID.vi"/>
@@ -83,17 +88,30 @@
 		<Item Name="Size of TPCANChannelInformation--constant.vi" Type="VI" URL="../Size of TPCANChannelInformation--constant.vi"/>
 	</Item>
 	<Item Name="Filter Messages.vi" Type="VI" URL="../Filter Messages.vi"/>
+	<Item Name="Get Error Text.vi" Type="VI" URL="../Get Error Text.vi"/>
 	<Item Name="Get Status.vi" Type="VI" URL="../Get Status.vi"/>
 	<Item Name="Get Value.vi" Type="VI" URL="../Get Value.vi"/>
+	<Item Name="Get Value (U32).vi" Type="VI" URL="../Get Value (U32).vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Get Value (String).vi" Type="VI" URL="../Get Value (String).vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Handle Status Code.vi" Type="VI" URL="../Handle Status Code.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
+	<Item Name="Init FD.vi" Type="VI" URL="../Init FD.vi"/>
 	<Item Name="Read.vi" Type="VI" URL="../Read.vi"/>
+	<Item Name="Read FD.vi" Type="VI" URL="../Read FD.vi"/>
 	<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
 	<Item Name="Set Value.vi" Type="VI" URL="../Set Value.vi"/>
+	<Item Name="Set Value (U32).vi" Type="VI" URL="../Set Value (U32).vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Uninitialize.vi" Type="VI" URL="../Uninitialize.vi"/>
 	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
+	<Item Name="Write FD.vi" Type="VI" URL="../Write FD.vi"/>
 	<Item Name="Read Event.lvclass" Type="LVClass" URL="../Read Event/Read Event.lvclass"/>
 	<Item Name="epoll.lvclass" Type="LVClass" URL="../epoll/epoll.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -104,7 +122,4 @@
 	<Item Name="Message Waiter.lvclass" Type="LVClass" URL="../Message Waiter/Message Waiter.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Init FD.vi" Type="VI" URL="../Init FD.vi"/>
-	<Item Name="Read FD.vi" Type="VI" URL="../Read FD.vi"/>
-	<Item Name="Write FD.vi" Type="VI" URL="../Write FD.vi"/>
 </Library>
