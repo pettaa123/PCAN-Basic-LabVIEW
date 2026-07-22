@@ -6,9 +6,17 @@ This wrapper has been tested against version PCAN Basic API **V4.10.1.968** with
 
 This project includes code for event driven read on linux rt from the [LinuxRT-IPC](https://github.com/NISystemsEngineering/LinuxRT-IPC) project, licensed under Apache License 2.0.
 
-`source/peak/PCANBasic64.dll` and `source/peak/PCANBasic32.dll` V4.10.1.968 — Copyright © Copyright (c) 2025 PEAK-System Technik GmbH Darmstadt, Germany.
-Included as-is for convenience, unmodified, for use with this project.
-Distributed according to the original PEAK license terms.
+`source/peak/PCANBasic64.dll` and `source/peak/PCANBasic32.dll` PCAN-Basic V4.10.1.968
+Copyright (c) 2025 PEAK-System Technik GmbH Darmstadt, Germany
+All rights reserved.
+
+PEAK-System Technik GmbH grants the right to the customer to use the files in
+this software package as long as this is done in connection with original
+hardware by PEAK-System or OEM hardware coming from PEAK-System. It is NOT
+allowed to use any of these files (even not parts) with third-party hardware.
+
+Please read the End User License Agreement of the company PEAK-System Technik GmbH at:
+www.peak-system.com/quick/eula
 
 ---
 

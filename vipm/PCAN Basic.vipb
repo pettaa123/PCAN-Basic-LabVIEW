@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-07-21 15:49:02" Creator="tupp_js" Comments="" ID="6fa27611a6c2892171beaea1e333fd4d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-11 09:21:32" Modified_Date="2026-07-22 10:34:48" Creator="tupp_js" Comments="" ID="127f3c774c1ef6bb1861a786657c6d99">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_PCAN_Basic</Package_File_Name>
     <Library_Version>1.0.0.21</Library_Version>
@@ -48,7 +48,21 @@ Enter following commands in terminal to build and install pcan linux driver on N
   sudo find /lib/modules/ -name "pcan.ko" ! -path "/lib/modules/$(uname -r)/*" -exec rm {} \;
   sudo depmod -a
   sudo modprobe pcan&lt;/i&gt;
-Note: Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.</Description>
+Note: Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.
+
+This package includes code for event driven read on linux rt from the &lt;b&gt;LinuxRT-IPC&lt;/b&gt;&lt;i&gt;https://github.com/NISystemsEngineering/LinuxRT-IPC&lt;/i&gt; project, licensed under &lt;i&gt;Apache License 2.0&lt;/i&gt;.
+
+&lt;i&gt;peak/PCANBasic64.dll&lt;/i&gt; and &lt;i&gt;peak/PCANBasic32.dll&lt;/i&gt; PCAN-Basic V4.10.1.968
+Copyright (c) 2025 PEAK-System Technik GmbH Darmstadt, Germany
+All rights reserved.
+
+PEAK-System Technik GmbH grants the right to the customer to use the files in
+this software package as long as this is done in connection with original
+hardware by PEAK-System or OEM hardware coming from PEAK-System. It is NOT
+allowed to use any of these files (even not parts) with third-party hardware.
+
+Please read the End User License Agreement of the company PEAK-System Technik GmbH at:
+www.peak-system.com/quick/eula</Description>
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/PCAN-Basic-LabVIEW</URL>
@@ -467,7 +481,7 @@ Note: Errors will appear during build. They arise from missing g++ on NI-RT Linu
         <Path>..\source\Get Error Text.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>145D657B4AA3D51AE905A67957AF7C03</GUID>
+      <GUID>66D4B8DD849474DF8DB4E1A4D69E72A6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
