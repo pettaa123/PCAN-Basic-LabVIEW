@@ -51,6 +51,10 @@ It creates a **PCAN Basic** palette under Instrument I/O.
   sudo find /lib/modules/ -name "pcan.ko" ! -path "/lib/modules/$(uname -r)/*" -exec rm {} \;
   sudo depmod -a
   sudo modprobe pcan
+  cd libpcanbasic
+  make clean
+  make
+  sudo make install
 ```
   > **Note:** Errors will appear during build. They arise from missing g++ on NI-RT Linux. You can ignore these.
 
